@@ -1,1 +1,1 @@
-Since the env folder was big, i didn't included that here
+Since the env folder was big, i didn't include that here
